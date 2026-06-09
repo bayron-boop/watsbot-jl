@@ -1,0 +1,16 @@
+{
+  "name": "bot-whatsapp-render",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Baileys con pairing code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^8.17.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
