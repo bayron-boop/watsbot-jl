@@ -1,0 +1,17 @@
+{
+  "name": "bot-whatsapp",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bot WhatsApp 24/7 en Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.15",
+    "@hapi/boom": "^10.0.1"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
